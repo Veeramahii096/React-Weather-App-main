@@ -10,5 +10,5 @@ It is a simple weather app built using open Weather Api and React Js
   -  Open the link
 
  # Live Preview
- https://810-weather.netlify.app/
+
 
