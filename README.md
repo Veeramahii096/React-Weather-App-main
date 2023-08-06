@@ -11,4 +11,4 @@ It is a simple weather app built using open Weather Api and React Js
 
  # Live Preview
 
-
+https://veeraweatherapp.netlify.app/
